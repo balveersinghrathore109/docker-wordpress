@@ -1,0 +1,8 @@
+/mysql/*
+!/mysql/.gitkeep
+
+/nginx/certs/*
+!/nginx/certs/.gitkeep
+
+/wordpress/*
+!/wordpress/.gitkeep
